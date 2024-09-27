@@ -1,0 +1,15 @@
+import React from "react";
+
+const Verify=()=>{
+    return(
+        <div>
+            Verify,
+
+            Hihi,
+
+            I am testing why pushing in ubuntu linux is ailing, so sorry
+        </div>
+    )
+}
+
+export default Verify
